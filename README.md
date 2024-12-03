@@ -70,8 +70,6 @@
     <img height=50% align="center" src="https://github-readme-stats.vercel.app/api?username=HwangEojin" />
   </a>
  
-  <a href="https://github.com/HwangEojin/convoychat">
-    <img height=30% align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HwangEojin&layout=compact&langs_count=8&card_width=320" />
   </a>
 
 
