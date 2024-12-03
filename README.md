@@ -1,4 +1,6 @@
-
+<div align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7BF00&center=true&vCenter=true&width=435&lines=console.log(%22Hello+World!%22)" alt="Typing SVG" /></a>
+</div>
 <!--타이틀 부분-->
 <div align="center">
   <!--<img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />-->
